@@ -14,6 +14,8 @@ Screenshots
 
 ![Windows x64 running the dus](https://i.gyazo.com/6c9622035c02df91a95de629ab991a8b.png)
 
+![Linux Ubuntu 12.04 running the dus](https://i.gyazo.com/96e9500ae739ad3e839e6d5d4b1ced28.png)
+
 How To Use [ubuntu]
 -----------
 1. Check if Linux is up-to-date.
